@@ -3,7 +3,7 @@
         id="cordova-plugin-camerainfo"
         version="0.0.1">
 
-    <name>cordova-plugin-itunesfilesharing</name>
+    <name>cordova-plugin-camerainfo</name>
     <description>Description for iOS of camera usage in app</description>
     <license>Apache 2.0 License</license>
     <platform name="ios">
