@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        id="cordova-plugin-camerainfo"
+        version="0.0.1">
+
+    <name>cordova-plugin-itunesfilesharing</name>
+    <description>Description for iOS of camera usage in app</description>
+    <license>Apache 2.0 License</license>
+    <platform name="ios">
+        <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
+            <string>The mobile app utilizes the camera for the clients to take pictures of their activity.</string>
+        </config-file>
+    </platform>
+</plugin>

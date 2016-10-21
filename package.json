@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-camerainfo",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "com.selvera.cordova.plugin.camerainfo",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selvera/cordova-plugin-camerainfo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selvera/cordova-plugin-camerainfo/issues"
+  },
+  "homepage": "https://github.com/selvera/cordova-plugin-camerainfo#readme"
+}
